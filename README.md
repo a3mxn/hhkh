@@ -1,19 +1,18 @@
-## Umansh Bansal
+# Aman Thakur
 
-![b25lY21zOjE3YjMxNmFjLWUxYTUtNGI5Ny04ODMwLWU2Njk4MzNmMDYyMjo5ZjZlMThiMy00MzRiLTQ1MWUtOWRhMC1hNTJmNTYyZGUzYTQ=](https://wallpaperaccess.com/full/2195046.jpg)
+![Image](https://wallpaperaccess.com/full/2195046.jpg)
 
 ## Education
 
-D.A.V. SR. SEC. PUBLIC SCHOOL, SUNAM (2006-2019) https://davsunam.com/
+2007-2021
+Minerva Sr. Sec. School Ghumarwin, Bilaspur, Himachal Pradesh https://minervaeducation.org/
 
-Allen Career Institute , Chandigarh https://www.allen.ac.in/chandigarh/
-
-Sidhu Memorial school, Sheron https://www.sidhumemorialschoolsheron.in/
-
+2021-till date
 CHITKARA UNIVERSITY INSTITUTE OF ENGINEERING & TECHNOLOGY (CUIET) https://www.chitkara.edu.in/engineering/colleges-punjab-chandigarh
+
 
 ## Research Interest 
 
+Cloud computing
 Cybersecurity
-A.I.
 Machine Learning
